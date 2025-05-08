@@ -127,8 +127,8 @@ Closed-HH (C)
 
 
 Demo / デモ
-[[Link to live demo or hosted version of your app, if applicable.]
-[アプリのライブデモまたはホスト版へのリンク（該当する場合）]](https://drummac.netlify.app/)
+[[Link to live demo.]
+[アプリのライブデモ]](https://drummac.netlify.app/)
 
 
 License / ライセンス
